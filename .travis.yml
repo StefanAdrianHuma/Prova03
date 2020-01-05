@@ -6,7 +6,7 @@ addons:
  sonarcloud:
   organization: StefanAdrianHuma
   token:
-   secure: 728b0ba730fb62b3d1087c959ae4b1cf68d88dfb
+   secure: 3caa425aa3fd1392cf47481a1fbb325ac4cfdd5c
 script: 
 - ant build
 - sonar-scanner
